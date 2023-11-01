@@ -4,7 +4,7 @@ Soy estudiante de la carrera de informática empresarial de una Universidad de C
 
 Tengo mucha pasión por el ambito de la tecnología, todo lo que tiene que ver con programación, diseño y seguridad.
 
-##**Tecnologías:**
+**Tecnologías:**
 ---
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
