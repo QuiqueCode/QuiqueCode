@@ -8,7 +8,7 @@
 
 **Portafolio:**
 ---
-🌐 **Conoce mis creaciones en [mi portafolio](https://www.tu-enlace-a-tu-portafolio.com). ¡La imaginación no tiene límites!** 🚀
+🌐 **Conoce mis creaciones aquí [mi portafolio](https://www.tu-enlace-a-tu-portafolio.com). ¡El eco de lo que hacemos ahora, resuena en la eternidad.!** 🚀
 
 **Tecnologías:**
 ---
