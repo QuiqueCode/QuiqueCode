@@ -1,7 +1,7 @@
 
 # Hola, mi nombre es Dylan Castillo 
 
-![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/QuiqueCode/QuiqueCode/assets/149546547/83ecb44f-ac19-470f-a151-4d019ba90c08)
+
 
 Soy estudiante de Informática Empresarial en la Universidad de Costa Rica. Desde temprana edad, he sentido una fuerte pasión por la tecnología. Disfruto aprendiendo nuevas tecnologías y enfrentándome a diferentes desafíos cada día. Me considero una persona ordenada, paciente y siempre dispuesto a ayudar en lo que sea necesario.
 
