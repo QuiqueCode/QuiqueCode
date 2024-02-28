@@ -6,7 +6,8 @@
 
 #### Soy un estudiante de la carrera Informática Empresarial en la Universidad de Costa Rica. Desde temprana edad, he sentido una fuerte pasión por la tecnología. Disfruto aprendiendo nuevas tecnologías y enfrentándome a diferentes desafíos cada día. Me considero una persona ordenada, paciente y siempre dispuesta a ayudar en lo que sea necesario.
 
-# Portafolio: 
+**Portafolio:**
+---
 Link
 
 **Tecnologías:**
@@ -20,7 +21,7 @@ Encuentrame en:
 [![Instagram](https://img.shields.io/badge/Instagram-@dc_1314-F7DF1E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/d_c1314/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan_Castilo-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
 
-# Hobbies: 
+**Hobbies:** 
 
 | Hobbies            | Nivel (1-5) |
 |--------------------|-------------|
