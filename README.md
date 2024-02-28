@@ -1,6 +1,7 @@
 
 # Hola, mi nombre es Dylan Castillo 
 
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/QuiqueCode/QuiqueCode/assets/149546547/ebe542d8-e942-4bd9-948c-73f3774fc8ab)
 
 
 Soy estudiante de Informática Empresarial en la Universidad de Costa Rica. Desde temprana edad, he sentido una fuerte pasión por la tecnología. Disfruto aprendiendo nuevas tecnologías y enfrentándome a diferentes desafíos cada día. Me considero una persona ordenada, paciente y siempre dispuesto a ayudar en lo que sea necesario.
