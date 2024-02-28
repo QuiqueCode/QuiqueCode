@@ -6,9 +6,9 @@ Tengo mucha pasión por el ambito de la tecnología, todo lo que tiene que ver c
 
 **Tecnologías:**
 ---
-[![JavaScript](https://img.shields.io/badge/build-JavaScript-JavaScript?style=for-the-badge&logo=javaScript&logoColor=white&label=%20&labelColor=black&color=%23F0DB4F&cacheSeconds=3600)]()  
-[![MySQL](https://img.shields.io/badge/build-MySql-MySql?style=for-the-badge&logo=MySql&logoColor=white&label=%20&labelColor=black&color=%234479A1&cacheSeconds=3600)]()  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)]()  
+[![JavaScript](https://img.shields.io/badge/build-JavaScript-JavaScript?style=for-the-badge&logo=javaScript&logoColor=white&label=%20&labelColor=black&color=%23F0DB4F&cacheSeconds=3600)]()
+[![MySQL](https://img.shields.io/badge/build-MySql-MySql?style=for-the-badge&logo=MySql&logoColor=white&label=%20&labelColor=black&color=%234479A1&cacheSeconds=3600)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)]()
 
 [![Material UI](https://img.shields.io/badge/build-Material%20UI-React?style=for-the-badge&logo=mui&logoColor=white&label=%20&labelColor=black&color=%2361DBFB&cacheSeconds=3600)]()
 [![GitHub](https://img.shields.io/badge/build-GitHub-GitHub?style=for-the-badge&logo=GitHub&logoColor=white&label=%20&labelColor=black&color=%23181717&cacheSeconds=3600)]()
