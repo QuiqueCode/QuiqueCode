@@ -20,8 +20,6 @@
 
 Encuentrame en:
 ---
-[![Instagram](https://img.shields.io/badge/Instagram-@dc_1314-F7DF1E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/d_c1314/) 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan_Castilo-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dylancastillo/)
 
 **Hobbies:** 
