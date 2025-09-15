@@ -4,7 +4,7 @@
 ![Black Minimal Motivation Quote LinkedIn Banner sdfd](https://github.com/QuiqueCode/QuiqueCode/assets/149546547/d744501f-8c7a-4189-afda-6744e05780c4)
 
 
-#### Soy un estudiante de la carrera Informática Empresarial en la Universidad de Costa Rica. Desde temprana edad, he sentido una fuerte pasión por la tecnología. Disfruto aprendiendo nuevas tecnologías y enfrentándome a diferentes desafíos cada día. Me considero una persona ordenada, paciente y siempre dispuesta a ayudar en lo que sea necesario.
+#### Soy graduado de la carrera de Informática Empresarial en la Universidad de Costa Rica. Desde temprana edad, he sentido una fuerte pasión por la tecnología. Disfruto aprendiendo nuevas herramientas y enfrentándome a diferentes desafíos cada día. Me considero una persona organizada, paciente y siempre dispuesta a colaborar para alcanzar los objetivos del equipo.
 
 **Portafolio:**
 ---
