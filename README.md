@@ -18,17 +18,9 @@
 
 [![HTML](https://img.shields.io/badge/any_HTML-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&label=%20&labelColor=black&color=%23E34F26&cacheSeconds=3600)]() [![CSS3](https://img.shields.io/badge/any_css3-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&label=%20&labelColor=black&color=%231572B6&cacheSeconds=3600)]()  [![MySQL](https://img.shields.io/badge/build-MySql-MySql?style=for-the-badge&logo=MySql&logoColor=white&label=%20&labelColor=black&color=%234479A1&cacheSeconds=3600)]() 
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&label=%20&labelColor=black)]()  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&label=%20&labelColor=black)]() [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white&label=%20&labelColor=black)]() [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&label=%20&labelColor=black)]()
 
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white&label=%20&labelColor=black)]()  
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&label=%20&labelColor=black)]()  
-
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&label=%20&labelColor=black)]()  
-
-[![Astro](https://img.shields.io/badge/Astro-0C344B?style=for-the-badge&logo=astro&logoColor=white&label=%20&labelColor=black)]()  
-
-[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&label=%20&labelColor=black)]()
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&label=%20&labelColor=black)]() [![Astro](https://img.shields.io/badge/Astro-0C344B?style=for-the-badge&logo=astro&logoColor=white&label=%20&labelColor=black)]() [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&label=%20&labelColor=black)]()
 
 Encuentrame en:
 ---
